@@ -2,7 +2,8 @@
 
 ## To see the live site follow the link below:
 
-link will be added when done
+https://olundir.github.io/FourCardFeatureSection/
+! As of now the site supports only desktop version!
 
 ### Project done as part of the FrontEnd Mentor Challanges
 
